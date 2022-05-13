@@ -18,7 +18,7 @@ const vinod = {
         databases: ["mongo", "MySql"],
         misc: ["SonarCube", "Socket.IO", "Jaeger", "karate-framwork", "Jest-unit-testing"]
     },
-    architecture: ["Serverless Architecture", "microservices", "Single page applications"]
+    architecture: ["microservices", "Single page applications"]
 };
 ```
 
