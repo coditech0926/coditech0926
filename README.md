@@ -22,8 +22,8 @@ const vinod = {
 };
 ```
 
-[
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodnextcoder)](https://github.com/vinodnextcoder/vinodnextcoder/README.md)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodnextcoder)](https://github.com/vinodnextcoder/vinodnextcoder)
 
 
 <h2>GitHub Stats</h2>
