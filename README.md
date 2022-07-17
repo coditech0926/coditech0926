@@ -22,7 +22,9 @@ const vinod = {
 };
 ```
 
-[![Type 2](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=for-the-badge&logo=logoname&logo-color=white)]
+[
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodnextcoder)](https://github.com/vinodnextcoder/vinodnextcoder/README.md)
+
 
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=vinodnextcoder&amp;show_icons=true" alt="GitHub Stats"></p>
