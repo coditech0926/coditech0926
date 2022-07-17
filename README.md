@@ -22,6 +22,8 @@ const vinod = {
 };
 ```
 
+[![Type 2](https://img.shields.io/static/v1?label=|&message=msg&color=ff&style=for-the-badge&logo=logoname&logo-color=white)]
+
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=vinodnextcoder&amp;show_icons=true" alt="GitHub Stats"></p>
 
@@ -30,6 +32,3 @@ const vinod = {
 vinodnextcoder/vinodnextcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![Github Detailed Stats](https://metrics.lecoq.io/vinodnextcoder?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true)](https://github.com/MrKrishnaAgarwal/readme-components-github)
-
