@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @vinod
-- 👀 I’m interested in blockchain, Nodejs backend
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on ... Nodejs
+
 
 <h1 align="center">Hi 👋, I'm Vinod</h1>
 <h3 align="center">A passionate nodejs developer from India</h3>
+
+- 👀 I’m interested in blockchain, Nodejs backend
+- 🌱 I’m currently learning blockchain
+- 💞️ I’m looking to collaborate on ... Nodejs
 
 
 
