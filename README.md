@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodnextcoder&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="vinodnextcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodnextcoder&show_icons=true&locale=en&theme=tokyonight" alt="vinodnextcoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodnextcoder&show_icons=true&theme=radical" alt="vinodnextcoder" /></p>
 
 
 
