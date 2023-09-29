@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,solidity,js,ts,nodejs,react,redux,nextjs,vue,nuxtjs,express,redis,tailwind,sass,bootstrap,mysql,mongodb,firebase,vim,azure,git,github,gitlab,agile,jira&perline=13" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,solidity,js,jquery,ts,babel,vite,nodejs,react,redux,nextjs,vue,nuxtjs,svelte,express,nestjs,redis,figma,materialui,tailwind,sass,bootstrap,css,styledcomponents,mysql,mongodb,firebase,vim,azure,git,github,githubactions,gitlab,stackoverflow,agile,jira&perline=13" />
   </a>
 </p>
 
