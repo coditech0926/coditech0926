@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coditech0926&show_icons=true&theme=radical" alt="coditech0926" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayvaij&" alt="tanmayvaij" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coditech0926&" alt="coditech0926" /></p>
 
 
 
