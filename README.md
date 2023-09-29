@@ -1,11 +1,16 @@
 
 
-<h1 align="center">Hi 👋, I'm Vinod</h1>
-<h3 align="center">A passionate nodejs developer from India</h3>
+<h1 align="center">Hi 👋, I'm Julian</h1>
+<h3 align="center">A passionate Blockchain and Front-end developer! </h3>
 
-- 👀 I’m interested in blockchain, Nodejs backend
-- 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on ... Nodejs
+## Skills
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,express,go,java,js,md,mysql,nextjs,nodejs,py,react,redis,tailwind,ts,vim,azure&perline=13" />
+  </a>
+</p>
 
 <p align="left">
 </p>
