@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/coditech0926/coditech0926/main/intro.gif" alt="👋 Hi there! I'm Julian" title="👋 Hi there! I'm Julian"/>
 
 
 <h1 align="center">Hi 👋, I'm Julian</h1>
