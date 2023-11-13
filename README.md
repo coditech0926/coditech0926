@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">A passionate Blockchain and Front-end developer! </h3>
+<h3 align="center">A passionate Blockchain and Full Stack developer! </h3>
 
 ## Skills
 
