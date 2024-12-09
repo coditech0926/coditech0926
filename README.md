@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
+<h1 align="center">Hi 👋, I'm Oleksii</h1>
 <h3 align="center">A passionate Web & Blockchain Full Stack developer! </h3>
 
 <picture>
